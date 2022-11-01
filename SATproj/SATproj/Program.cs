@@ -29,10 +29,10 @@ namespace SATproj
 
             }//end 
 
+            
             Console.WriteLine();
             Console.WriteLine("Students not assigned a partner:\n");
             //Reads back the users but doesnt sort.
-            Array.Sort(student);
             foreach (var item in student)
             {
                 Console.Write($"{item} ");
@@ -45,3 +45,5 @@ namespace SATproj
     }
 
 }
+
+
