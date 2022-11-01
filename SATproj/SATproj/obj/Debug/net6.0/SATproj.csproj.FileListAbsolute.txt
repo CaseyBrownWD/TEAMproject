@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\bin\Debug\net6.0\SATproj.exe
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\bin\Debug\net6.0\SATproj.deps.json
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\bin\Debug\net6.0\SATproj.runtimeconfig.json
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\bin\Debug\net6.0\SATproj.dll
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\bin\Debug\net6.0\SATproj.pdb
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\SATproj.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\SATproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\SATproj.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\SATproj.AssemblyInfo.cs
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\SATproj.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\SATproj.dll
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\refint\SATproj.dll
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\SATproj.pdb
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\SATproj.genruntimeconfig.cache
+C:\Users\Student\source\repos\TEAMproject\SATproj\SATproj\obj\Debug\net6.0\ref\SATproj.dll
